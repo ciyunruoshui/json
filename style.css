@@ -1,0 +1,14 @@
+.title{
+	background-color: blue;
+	color: white;
+	padding:10px;
+	font-family: "楷体";
+    font-size: 20px;
+	text-align: left;
+	position: relative;
+}
+#button1{
+	position: absolute;
+	right:10px;
+    font-size: 20px;
+}
